@@ -1,0 +1,84 @@
+.rob{
+    width: 700px;
+    margin-top: 15px;
+}
+
+.prog {
+    width: 600px;
+}
+
+.num{
+    margin-top: 30px;
+    margin-bottom: 0px;
+}
+
+.num2{    
+    margin-top: 0px;
+}
+
+.bodu {
+    margin-right: 500px;
+    margin-left: 500px;
+}
+
+div {
+    width: 920px;
+    height: 1050px;
+    background-color: rgb(255, 255, 255);
+}
+
+.umy {
+    margin-top: 50px;
+    margin-bottom: 5px;
+    margin-left: 20px;
+}
+.imy {
+    margin-left: 20px;
+}
+.otp {
+    text-decoration: none;
+}
+
+.mom {
+    margin-bottom: 500px;
+
+}
+
+.baton{
+    text-decoration: none;
+}
+
+.bonor {
+    width: 1775px;
+    height: 250px;
+    background-color: rgb(255, 255, 255);
+}
+
+.a {
+    margin-left: 10px;
+
+
+}
+
+.pel {
+    width: 500px
+}
+
+.proga {
+    width: 800;
+}
+
+.model {
+    width: 700px
+}
+
+.hah {
+    margin-top: 570px;
+}
+
+.carta {
+    position:relative;
+    overflow:hidden;
+    width: 560px;
+    height: 410px;
+}

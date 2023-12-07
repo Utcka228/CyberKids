@@ -1,0 +1,235 @@
+@media screen and (max-width:  1237px){
+
+    .rob {
+        margin-left: 80px;
+    }
+
+}
+
+@media screen and (max-width:  1192px){
+    .rob {
+        margin-left: 160px;
+    } 
+
+    .proga {
+        margin-right: 30px;
+        width: 1000px;
+    }
+
+    .hah {
+        margin-top: 0px;
+    }
+
+    .lho {
+        width: 1000px;
+    }
+
+    .progir {
+        width: 600px;
+    }
+}
+
+
+@media screen and (max-width: 768px) {
+    .mom{
+        margin-bottom: 0px;
+    }
+
+    .hah{
+        margin-top: 0px;
+    
+    }
+
+    .model { 
+        width: 550px;
+        margin-left: 43px;
+    }
+
+    .proga {
+        width: 600px;
+        margin-right: 25px;
+    }
+
+    .rob {
+        width: 500px;
+        margin-left: 74px;
+    }
+
+    .pencil {
+        width: 500px;
+    }
+
+    .lho {
+        width: 500px;
+    }
+
+    .progir {
+        width: 500px;
+    }
+}
+
+@media screen and (max-width: 576px){
+    .pencil {
+        width: 400px;
+    }
+
+    .rob {
+        width: 400px;
+        margin-left: 30px;
+    }
+
+    .pel {
+        width: 400px;
+        margin-left: 3px;
+    }
+
+    .proga {
+        width: 400px;
+    }
+
+    .model { 
+        width: 400px;
+        margin-left: 30px;
+    }
+
+    .lho {
+        width: 450px;
+    }
+
+    .progir {
+        width: 400px;
+    }
+
+    .prog {
+        width: 450px;
+    }
+}
+
+@media screen and (max-width: 460px){
+    .pencil {
+        width: 300px;
+    }
+
+    .rob {
+        width: 300px;
+        margin-left: 20px;
+    }
+
+    .pel {
+        width: 300px;
+    }
+
+    .proga {
+        width: 300px;
+    }
+
+    .model { 
+        width: 300px;
+        margin-left: 25px;
+    }
+    .lho {
+        width: 300px;
+    }
+
+    .progir {
+        width: 300px;
+    }
+    .prog {
+        width: 300px;
+    }
+}
+
+@media screen and (max-width: 414px){
+    .pencil {
+        width: 280px;
+    }
+
+    .rob {
+        width: 250px;
+    }
+
+    .pel {
+        width: 280px;
+    }
+
+    .proga {
+        width: 250px;
+    }
+
+    .model { 
+        width: 250px;
+    }
+}
+
+@media screen and (max-width: 375px){
+
+    .pencil {
+        width: 150px;
+    }
+    .rob {
+        width: 170px;
+        margin-left: 43px;
+    }
+
+    .pel {
+        width: 210px;
+        margin-left: 5px;
+    }
+
+    .proga {
+        width: 210px;
+        margin-right: 25px;
+    }
+
+    .model { 
+        width: 210px;
+        margin-left: 22px;
+    }
+
+    .mom{
+        margin-bottom: 0px;
+    }
+
+    .hah{
+        margin-top: 0px;
+    
+    }
+
+    .lho{
+        width: 200px;
+
+    }
+
+    .progir {        
+        width: 200px;
+
+    }
+
+    .prog {        
+        width: 200px;
+    
+    }
+}
+
+@media screen and (max-width: 320px){
+    .pencil {
+        width: 150px;
+    }
+
+    .rob {
+        margin-left: 15px;
+    }
+
+    .pel {
+        width: 190px;
+    }
+
+    .proga {
+        width: 150px;
+    }
+
+    .model { 
+        width: 150px;
+    }
+}
+
